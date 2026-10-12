@@ -1,0 +1,8 @@
+Instructions within video games: 
+Possible Question: How does the length/layout/complexity affect the results(or difficulty) of written instructions within video games.
+
+- https://ieeexplore.ieee.org/abstract/document/10564249 - Focuses on the fact that instructions in games are vital but the majority of players skip over them. Results: simpler instructions are the most helpful to players. Clunky or overly complex layouts lead to players failing to notice or adhere to instructions properly.
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12452717/ -  focuses on how instructions are read by players using eye trackers. (Could be used to discuss the length and layout part of the question)
+
+- https://dl.acm.org/doi/epdf/10.1145/2207676.2207687 - examines the relationship between written instructions, game complexity, and how tutorials can actually make a game harder to get into if implemented incorrectly.
