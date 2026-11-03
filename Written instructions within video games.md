@@ -7,13 +7,37 @@ To explore this topic thoroughly, the essay breaks down into three key theoretic
 Beyond looking at basic readability, this essay also addresses the specific user experience challenges found in single player puzzle games where instructions act as an active gameplay element. When players must constantly reference a manual, notebook or guide while attempting to solve timed or complex puzzles, the layout of that text becomes just as important as the puzzle mechanics themselves. Poorly spaced text, bad font choices or confusing section headers force players to waste mental energy just trying to locate the right rule, leading to unnecessary fatigue and avoidable mistakes. By breaking down how layout decisions impact working memory, this essay shows how smart visual organisation can keep a game challenging for the right reasons rather than being difficult simply because the text is hard to understand and read. Ultimately, understanding these structural user interface principles gives designers a clear framework for building instructional manuals that inform players clearly without overwhelming them. <br>
 
 
-## Literature Review (including theoretical and conceptual framework)
+## Literature Review (including theoretical and conceptual framework) (Word goal: 1500)
+
+### 1 (532)
+To start answering this question, I started by researching a study done by Rifat Ara Tasnim, Md Mosharaf Hossan and Farjana Z. Eishita (Tasnim et al., 2024) on the impact of how written instructions within video games are presented and designed. This study took 30 participants and had them three groups of ten play a different version of the same game, the only difference being the design and layout of the different instructions. The first version had a very simple layout, using a light gray font on a blue background with a light gray button. The second version uses a dark grey font on a bright white background, with a bright red start button and images of fruits and plants surrounding the instructions. The third and final layout was just like the first version, but missing the start button. This version had the text turn red one word at a time as if reading along with you. It would take twelve seconds for all the text to turn red, at which point the start button would appear, allowing the player to start. The results of this test concluded that the third version resulted in "the players exerted more effort while playing" and "the players experienced the highest level of ease of control and progress feedback for the gameplay." This test also found that the results of the bright and colourful version two "remained consistently low. This outcome aligns with the majority number of players not correctly following the instructions for this particular version of gameplay." <br>
+What intrigued me the most whilst also making the most sense about these results is the fact that the best looking instructions caused the players to perform the worst compared to the other participants. As a game developer who has also taken a design course, you always want what you make to draw people in and look high quality, instead of just being plain boring text on a screen, but it seems that the plain boring text is the way to go when creating instructions. I found the idea of locking the start/continue button behind a timed lock very smart. Hiding the button from the player for them to continue seems like something that would annoy the player, which it probably would annoy a few, but it also is a very clever idea design wise as it not only gives the player time to read the instructions but also kind of forces them to read them carefully and within a space of time that the developer feels necessary for the player to take in the instructions. Although this is a very good idea on paper, I feel this wouldn't work for most instructions in video games, especially not in the game I want to make. In terms of most games, written instructions are something players can pick up or see and they can choose to read it or figure it out on their own, if this was forced and made it so they had to wait however, I feel that the player would feel to restricted with how they player the game. And when it comes to my game idea, the instructions are supposed to be read whilst doing other things so there can not be any sort of locking the player out of moving on until they are done reading.<br>
+This test helps answer the question by showing that instructions shouldn't be too complex in design, a simple design works best.
+
+### 2
+After researching layout, I looked into how instructions are read by players and where they look when reading them. To figure this out, I examined an eye tracking study done by Haiting Lan, Sixin Liao, Jan-Louis Kruger and Michael J. Richardson (Lan et al., 2025) on how players process written language within video games. While their specific test looked at subtitled instructions rather than static manuals, their finding on visual attention and reading behavior offer a brilliant parallel to how players navigate text heavy in game documentation. The study revealed that players actively filter information, focusing their visual attention strictly on text relevant to their immediate goals. More importantly, the study found that when players rely entirely on visual text without any audio guidance, they show lower word skipping rates and have to exert much higher cognitive effort on words loaded with "immediate action-related information". <br>
+
+### 3
 
 
-## Case Studies (analysis of examples of existing practice)
+## Case Studies (analysis of examples of existing practice) 1500
+
+### Keep Talking And Nobody Explodes (Complex instructions on purpose)
 
 
-## Conclusion and Reflection on Practice
+### Papers Please (Simple to understand bullet point design)
+
+
+### Cyberrat??
+
+
+## Conclusion and Reflection on Practice 500
 
 
 ### Bibliography
+#### Literature Review
+- Tasnim, R. A., Hossan, M. M. and Eishita, F. Z. (2024) 'Analyzing Differential Impact of Text-Based Instructions in Video Games' In: 2024 Intermountain Engineering, Technology and Computing (IETC). 2024 Intermountain Engineering, Technology and Computing (IETC). pp.227–232. At: https://ieeexplore.ieee.org/abstract/document/10564249 (Accessed  03/11/2026).
+- Lan, H., Liao, S., Kruger, J.-L. and Richardson, M. J. (2025) 'Processing Written Language in Video Games: An Eye-Tracking Study on Subtitled Instructions' In: Journal of Eye Movement Research 18 (5) p.44.
+- The impact of tutorials on games of varying complexity (s.d.) At: https://dl.acm.org/doi/epdf/10.1145/2207676.2207687 (Accessed  03/11/2026).
+
+#### Case Studies
