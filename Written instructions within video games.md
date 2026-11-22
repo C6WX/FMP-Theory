@@ -25,15 +25,15 @@ Adding help on demand options was another feature experimented with during this 
 Building on this, these findings offer a critical perspective on how written documentation impacts cognitive load and tutorial friction within puzzle interfaces. In games that rely heavily on written manuals or static guides, such as Keep Talking and Nobody Explodes (Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), the text itself forms the core puzzle environment. When instructions are presented as dense, out of context manuals rather than clear, easily accessible references, they introduce unnecessary friction by forcing the player to read complex riles under tight time constraints. The negative impact observed with the on demand help button in Refraction highlights how poorly integrated text resources can actively frustrate players and disrupt their focus. <br>
 This directly connects to my research question by showing that the layout and presentation of written instructions are just as important as the mechanics themselves. If a written tutorial drops massive blocks of text on screen or buries key rules inside confusing layouts, it places massive burden on the player's working memory. Instead of spending mental energy solving the actual puzzle, the player wastes time and focus just trying to navigate the documentation. For a written instruction manual to successfully minimise cognitive load and avoid tutorial friction, its visual hierarchy, layout and structure must allow players to locate and process key action triggers instantly, ensuring that the interface aids their problem solving rather than becoming and artificial roadblock.
 
-## Case Studies (analysis of examples of existing practice) 1500
+## Case Studies (analysis of examples of existing practice) 1000
 
 ### Keep Talking And Nobody Explodes (Complex instructions on purpose)
+The best game to look into and discuss for this question has to be Keep Talking and Nobody Explodes(Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), a game that focuses on complex instructions as a means to add challenge to the gameplay. This is done by purposely increasing the cognitive load of the player by using a tough to read instruction layout alongside difficult puzzle layouts. Instead of laying everything out clearly like normal manuals, the game hides rules behind dense walls of text, complicated flowcharts and look-alike symbols that force the player to stop and figure out what it is they are actually looking at. <br>
+Looking deeper into the instructions, it is very clear what methods the game designers used to complicate the instructions for the player, resulting in an increase to there cognitive load. One way this is done is by using unsorted lists. On the Who's on First puzzle, the first step requires the reading player to request the word given by the bomb so that they can find which button needs pressing, the list they have to find that word in however is completely out of any sort of order, increasing the solve time and complexity as the player needs to read through till the word is found. Then the second step requires the reading player to request another word from player one, which they need to find from another list, and then from that word, they need to search through it's unique, unordered list to find the correct word to give back to player 1.<br>
+A second way that the manual is made to confuse the player is 
 
 
 ### Papers Please (Simple to understand bullet point design)
-
-
-### Cyberrat??
 
 
 ## Conclusion and Reflection on Practice 500
@@ -47,3 +47,5 @@ This directly connects to my research question by showing that the layout and pr
 - Keep Talking and Nobody Explodes - Defuse a bomb with your friends. (s.d.) At: https://keeptalkinggame.com/ (Accessed  04/11/2026).
 
 #### Case Studies
+- Keep Talking and Nobody Explodes - Defuse a bomb with your friends. (s.d.) At: https://keeptalkinggame.com/ (Accessed  04/11/2026).
+- Papers, Please (s.d.) At: https://papersplea.se/ (Accessed  22/11/2026).
