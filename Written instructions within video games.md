@@ -25,14 +25,14 @@ Adding help on demand options was another feature experimented with during this 
 Building on this, these findings offer a critical perspective on how written documentation impacts cognitive load and tutorial friction within puzzle interfaces. In games that rely heavily on written manuals or static guides, such as Keep Talking and Nobody Explodes (Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), the text itself forms the core puzzle environment. When instructions are presented as dense, out of context manuals rather than clear, easily accessible references, they introduce unnecessary friction by forcing the player to read complex riles under tight time constraints. The negative impact observed with the on demand help button in Refraction highlights how poorly integrated text resources can actively frustrate players and disrupt their focus. <br>
 This directly connects to my research question by showing that the layout and presentation of written instructions are just as important as the mechanics themselves. If a written tutorial drops massive blocks of text on screen or buries key rules inside confusing layouts, it places massive burden on the player's working memory. Instead of spending mental energy solving the actual puzzle, the player wastes time and focus just trying to navigate the documentation. For a written instruction manual to successfully minimise cognitive load and avoid tutorial friction, its visual hierarchy, layout and structure must allow players to locate and process key action triggers instantly, ensuring that the interface aids their problem solving rather than becoming and artificial roadblock.
 
-## Case Studies (analysis of examples of existing practice) 1000
+## Case Studies (analysis of examples of existing practice) (Word Goal: 1000) (Word Count: 1099)
 
-### Keep Talking And Nobody Explodes (Complex instructions on purpose) 565
+### Keep Talking And Nobody Explodes 602
 The best game to look into and discuss for this question has to be Keep Talking and Nobody Explodes(Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), a game that focuses on complex instructions as a means to add challenge to the gameplay. This is done by purposely increasing the cognitive load of the player by using a tough to read instruction layout alongside difficult puzzle layouts. Instead of laying everything out clearly like normal manuals, the game hides rules behind dense walls of text, complicated flowcharts and look-alike symbols that force the player to stop and figure out what it is they are actually looking at. <br>
 Looking deeper into the instructions, it is very clear what methods the game designers used to complicate the instructions for the player, resulting in an increase to there cognitive load. One way this is done is by using unsorted lists. On the Who's on First puzzle, the first step requires the reading player to request the word given by the bomb so that they can find which button needs pressing, the list they have to find that word in however is completely out of any sort of order, increasing the solve time and complexity as the player needs to read through till the word is found. Then the second step requires the reading player to request another word from player one, which they need to find from another list, and then from that word, they need to search through it's unique, unordered list to find the correct word to give back to player 1.<br> <br>
 ![Who's on First P1](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Who's%20on%20First%20P1.png?token=GHSAT0AAAAAAERO3GKAWBAVFITAW6BP65BG2YDBZIQ)
-<br>
 *Figure 1. The first page of the Who's on First puzzle manual*
+<br>
 
 ![Who's on First P2](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Who's%20on%20First%20P2.png?token=GHSAT0AAAAAAERO3GKAYITK3RJ3AEMKRBC42YDBZYQ)
 *Figure 2. The second page of the Who's on First puzzle manual*
@@ -45,22 +45,38 @@ A second way that the manual is made to confuse the player is by using fictional
 <br>
 <br>
 After looking at the manual, I read through player feedback and reviews, specifically a review on Rock Paper Shotgun (Hivemind and RPS, 2015). Within the review, they discuss their feelings on the game itself but also the layout and design of the manual. Within the review, Graham says "But when there's a counter ticking down, even one I can't see, I panic and dismiss the header and small italics as unimportant, and then try to skim-read the bullet points. I wonder if typography and the cues that sends about which pieces of information are important is a deliberate part of the game design." This observation highlights how the manual deliberately subverts conventional UX principles by using typographic hierarchy to induce cognitive overload, effectively turning the act of reading into a high-stakes game mechanic. <br>
-Within this review Pip says "There's one module in the manual called 'Complicated Wires' and looking at that one I can feel my brain panicking. It's like normal wires except now some of them are STRIPEY and there are LEDs involved and the solution is this weird Venn diagram that looks more like some horribly complicated planetary orbit." This quote focusses more on the cognitive load side as it covers the fact each puzzle, mainly the wires puzzle, consists of many changing and additional variables, such as the wire colour and type, that completely change and complicate how the player processed and communicates the visual data, forcing a sudden cognitive gear shift, which explains Pip's immediate sense of panic.<br> 
+Within this review Pip says "There's one module in the manual called 'Complicated Wires' and looking at that one I can feel my brain panicking. It's like normal wires except now some of them are STRIPEY and there are LEDs involved and the solution is this weird Venn diagram that looks more like some horribly complicated planetary orbit." This quote focusses more on the cognitive load side as it covers the fact each puzzle, mainly the wires puzzle, consists of many changing and additional variables, such as the wire colour and type, that completely change and complicate how the player processed and communicates the visual data, forcing a sudden cognitive gear shift, which explains Pip's immediate sense of panic.<br>
+Taken together, these design choices illustrate how intentionally inflating cognitive load forces players to negotiate meaning under pressure, demonstrating that friction within a game's instructions can be just as vital to cooperative engagement as the mechanics themselves. <br>
 
-### Papers Please (Simple to understand bullet point design)
+### Papers Please 497
+Whilst Keep Talking and Nobody Explodes distributes its instructional complexity across multiple players, Papers, Please (Papers, Please, s.d.) forces a single player to bear the entire weight of cross-referencing dense rules and visual discrepancies alone. The main difference between the two games is the Papers, Please is a lot easier to pick up as a new player as it starts with no rules except do not let anyone in without valid paperwork. Rather than front-loading complexity like a static manual, Papers, Please slowly builds cognitive load by introducing new rule book pages and extra documents over time, forcing the player to manage and increasingly cramped desk under strict time constraints. <br>
+The result of having an increase in new rules is that more documents have to be provided and more methods have to be used by the player. The player goes from just needing a valid passport to needing a work permit, to not letting certain countries enter, to having to perform x-rays, to needing to take finger prints and even snipe terrorists who have climbed the border wall. The game definitely starts easy but by the end of it, you feel like you are juggling a million tasks just to deny or accept one person into the country. <br>
+Beyond the sheer volume of rules, the physical layout and visual design of the in-game rule book actively contribute to this cognitive overload by forcing the player to constantly flip between tabbed sections and cross reference dense pages within a cramped workspace. Written in terse, cold bureaucratic legalese - such as "Arstotzkan citizens only" or "Entrants must have a work pass" - the text strips away any helpful context or examples, forcing the player to interpret rigid, absolute statements while an entrant waits impatiently at the booth. <br> <br>
+![Rulebook](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Rulebook.png?token=GHSAT0AAAAAAERO3GKBQWAZV32HOOBY5L2I2YDECSQ)
+*Figure 4. The rulebook in Papers, Please*
+<br>
+<br>
+A review of the game by Leigh Alexander on the website gamedeveloper.com (Designing the bleak genius of Papers, Please, s.d.) discusses the the creator of the game, Lucas Pope, adopted a bureaucratic text structure, naturally allowing him to layer complex, gameplay oriented rules and regulations on the player. The creator says that "On some level I want players to reach a point of self-realization—about how good people can be turned into uncaring cogs.". This covers one of the main topics of the game, empathy. There are moments in the game where people won't have the correct documents to enter the country but will have a situation and emotional reason that they need to enter the country for, leaving the player to make a moral choice on wether they want to help them or care more for their job and themselves. Overloading the player's cognitive load with dense text rules, overlapping documents and strict timers induces a state of cognitive tunnel vision, reducing them to the exact "uncaring cog" Pope describes by making blind adherence to the rule book far easier than risking penalties for an act of empathy. <br> <br>
 
+![Empathy](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Empathy.png?token=GHSAT0AAAAAAERO3GKAI5RRB3MBCZ6TMDU62YDER4Q)
+*Figure 5. A character asking to be let in despite not having the correct documents as they would be killed back in their own country.*
+<br>
+<br>
+Looking at Papers, Please through the lens of my research question highlights a clear design lesson for my own project: progressive disclosure can prevent early tutorial friction but written instructions must remain scannable and spatially organised if the goal is to minimise extraneous cognitive load rather than induce stress. <br>
 
 ## Conclusion and Reflection on Practice 500
 
 
-### Bibliography
-#### Literature Review
+## Bibliography
+### Literature Review
 - Tasnim, R. A., Hossan, M. M. and Eishita, F. Z. (2024) 'Analyzing Differential Impact of Text-Based Instructions in Video Games' In: 2024 Intermountain Engineering, Technology and Computing (IETC). 2024 Intermountain Engineering, Technology and Computing (IETC). pp.227–232. At: https://ieeexplore.ieee.org/abstract/document/10564249 (Accessed  03/11/2026).
 - Lan, H., Liao, S., Kruger, J.-L. and Richardson, M. J. (2025) 'Processing Written Language in Video Games: An Eye-Tracking Study on Subtitled Instructions' In: Journal of Eye Movement Research 18 (5) p.44.
 - The impact of tutorials on games of varying complexity (s.d.) At: https://dl.acm.org/doi/epdf/10.1145/2207676.2207687 (Accessed  03/11/2026).
 - Keep Talking and Nobody Explodes - Defuse a bomb with your friends. (s.d.) At: https://keeptalkinggame.com/ (Accessed  04/11/2026).
 
-#### Case Studies
+### Case Studies
 - Keep Talking and Nobody Explodes - Defuse a bomb with your friends. (s.d.) At: https://keeptalkinggame.com/ (Accessed  04/11/2026).
 - Hivemind, R. P. S. and RPS (2015) 'The RPS Verdict: Keep Talking And Nobody Explodes' In: Rock, Paper, Shotgun 29/10/2015 At: https://www.rockpapershotgun.com/keep-talking-and-nobody-explodes-review (Accessed  22/11/2026).
 - Papers, Please (s.d.) At: https://papersplea.se/ (Accessed  22/11/2026).
+- Designing the bleak genius of Papers, Please (s.d.) At: https://www.gamedeveloper.com/design/designing-the-bleak-genius-of-i-papers-please-i- (Accessed  22/11/2026).
+
