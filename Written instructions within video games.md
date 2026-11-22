@@ -29,7 +29,15 @@ This directly connects to my research question by showing that the layout and pr
 
 ### Keep Talking And Nobody Explodes (Complex instructions on purpose)
 The best game to look into and discuss for this question has to be Keep Talking and Nobody Explodes(Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), a game that focuses on complex instructions as a means to add challenge to the gameplay. This is done by purposely increasing the cognitive load of the player by using a tough to read instruction layout alongside difficult puzzle layouts. Instead of laying everything out clearly like normal manuals, the game hides rules behind dense walls of text, complicated flowcharts and look-alike symbols that force the player to stop and figure out what it is they are actually looking at. <br>
-Looking deeper into the instructions, it is very clear what methods the game designers used to complicate the instructions for the player, resulting in an increase to there cognitive load. One way this is done is by using unsorted lists. On the Who's on First puzzle, the first step requires the reading player to request the word given by the bomb so that they can find which button needs pressing, the list they have to find that word in however is completely out of any sort of order, increasing the solve time and complexity as the player needs to read through till the word is found. Then the second step requires the reading player to request another word from player one, which they need to find from another list, and then from that word, they need to search through it's unique, unordered list to find the correct word to give back to player 1.<br>
+Looking deeper into the instructions, it is very clear what methods the game designers used to complicate the instructions for the player, resulting in an increase to there cognitive load. One way this is done is by using unsorted lists. On the Who's on First puzzle, the first step requires the reading player to request the word given by the bomb so that they can find which button needs pressing, the list they have to find that word in however is completely out of any sort of order, increasing the solve time and complexity as the player needs to read through till the word is found. Then the second step requires the reading player to request another word from player one, which they need to find from another list, and then from that word, they need to search through it's unique, unordered list to find the correct word to give back to player 1.<br> <br>
+![Who's on First P1](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Who's%20on%20First%20P1.png?token=GHSAT0AAAAAAERO3GKAWBAVFITAW6BP65BG2YDBZIQ)
+<br>
+*Figure 1. The first page of the Who's on First puzzle manual*
+
+![Who's on First P2](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Who's%20on%20First%20P2.png?token=GHSAT0AAAAAAERO3GKAYITK3RJ3AEMKRBC42YDBZYQ)
+*Figure 2. The second page of the Who's on First puzzle manual*
+<br>
+<br>
 A second way that the manual is made to confuse the player is 
 
 
