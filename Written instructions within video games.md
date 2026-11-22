@@ -27,7 +27,7 @@ This directly connects to my research question by showing that the layout and pr
 
 ## Case Studies (analysis of examples of existing practice) 1000
 
-### Keep Talking And Nobody Explodes (Complex instructions on purpose)
+### Keep Talking And Nobody Explodes (Complex instructions on purpose) 565
 The best game to look into and discuss for this question has to be Keep Talking and Nobody Explodes(Keep Talking and Nobody Explodes - Defuse a bomb with your friends., s.d.), a game that focuses on complex instructions as a means to add challenge to the gameplay. This is done by purposely increasing the cognitive load of the player by using a tough to read instruction layout alongside difficult puzzle layouts. Instead of laying everything out clearly like normal manuals, the game hides rules behind dense walls of text, complicated flowcharts and look-alike symbols that force the player to stop and figure out what it is they are actually looking at. <br>
 Looking deeper into the instructions, it is very clear what methods the game designers used to complicate the instructions for the player, resulting in an increase to there cognitive load. One way this is done is by using unsorted lists. On the Who's on First puzzle, the first step requires the reading player to request the word given by the bomb so that they can find which button needs pressing, the list they have to find that word in however is completely out of any sort of order, increasing the solve time and complexity as the player needs to read through till the word is found. Then the second step requires the reading player to request another word from player one, which they need to find from another list, and then from that word, they need to search through it's unique, unordered list to find the correct word to give back to player 1.<br> <br>
 ![Who's on First P1](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Who's%20on%20First%20P1.png?token=GHSAT0AAAAAAERO3GKAWBAVFITAW6BP65BG2YDBZIQ)
@@ -38,8 +38,14 @@ Looking deeper into the instructions, it is very clear what methods the game des
 *Figure 2. The second page of the Who's on First puzzle manual*
 <br>
 <br>
-A second way that the manual is made to confuse the player is 
+A second way that the manual is made to confuse the player is by using fictional symbols within puzzles, causing the players to have to describe them to each other, hoping the other player would be able to picture the same symbol in their head and select the correct one. This is seen in a few puzzles but the one I looked at was the On the Subject of Keypads puzzle. This puzzle requires player one to have to describe four symbols that they can see on their bomb and then the reading player has to find all four of those symbols within six columns, find which one they all fit into and then read the symbols back that they appear in said column. This is not only a difficult puzzle due to having the describe made up symbols, but also because once again, there is no order to the symbols or columns, making the flow of the puzzle non-existent. <br> <br>
 
+![Keypads](https://raw.githubusercontent.com/C6WX/FMP-Theory/refs/heads/main/Images/Keypads.png?token=GHSAT0AAAAAAERO3GKAPZJ5ED4IY4UCGXB62YDCCRQ)
+*Figure 3. The Keypads puzzle manual*
+<br>
+<br>
+After looking at the manual, I read through player feedback and reviews, specifically a review on Rock Paper Shotgun (Hivemind and RPS, 2015). Within the review, they discuss their feelings on the game itself but also the layout and design of the manual. Within the review, Graham says "But when there's a counter ticking down, even one I can't see, I panic and dismiss the header and small italics as unimportant, and then try to skim-read the bullet points. I wonder if typography and the cues that sends about which pieces of information are important is a deliberate part of the game design." This observation highlights how the manual deliberately subverts conventional UX principles by using typographic hierarchy to induce cognitive overload, effectively turning the act of reading into a high-stakes game mechanic. <br>
+Within this review Pip says "There's one module in the manual called 'Complicated Wires' and looking at that one I can feel my brain panicking. It's like normal wires except now some of them are STRIPEY and there are LEDs involved and the solution is this weird Venn diagram that looks more like some horribly complicated planetary orbit." This quote focusses more on the cognitive load side as it covers the fact each puzzle, mainly the wires puzzle, consists of many changing and additional variables, such as the wire colour and type, that completely change and complicate how the player processed and communicates the visual data, forcing a sudden cognitive gear shift, which explains Pip's immediate sense of panic.<br> 
 
 ### Papers Please (Simple to understand bullet point design)
 
@@ -56,4 +62,5 @@ A second way that the manual is made to confuse the player is
 
 #### Case Studies
 - Keep Talking and Nobody Explodes - Defuse a bomb with your friends. (s.d.) At: https://keeptalkinggame.com/ (Accessed  04/11/2026).
+- Hivemind, R. P. S. and RPS (2015) 'The RPS Verdict: Keep Talking And Nobody Explodes' In: Rock, Paper, Shotgun 29/10/2015 At: https://www.rockpapershotgun.com/keep-talking-and-nobody-explodes-review (Accessed  22/11/2026).
 - Papers, Please (s.d.) At: https://papersplea.se/ (Accessed  22/11/2026).
